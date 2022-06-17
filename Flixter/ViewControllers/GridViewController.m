@@ -8,11 +8,15 @@
 #import "GridViewController.h"
 #import "MovieCollectionViewCell.h"
 #import "UIImageView+AFNetworking.h"
+#import "DetailsViewController.h"
+
 
 @interface GridViewController () <UICollectionViewDelegate, UICollectionViewDataSource>
 
 @property (nonatomic, strong) NSArray *movies;
- 
+
+@property (weak, nonatomic) IBOutlet UICollectionViewFlowLayout *flow;
+
 @property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
 
 
@@ -110,5 +114,6 @@
     // Pass the selected object to the new view controller.
 }
 */
+
 
 @end
