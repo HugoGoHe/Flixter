@@ -149,11 +149,11 @@
             </objects>
             <point key="canvasLocation" x="25" y="-842"/>
         </scene>
-        <!--Item-->
+        <!--Now Playing-->
         <scene sceneID="HLl-tZ-I21">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Ihm-MD-ngn" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="efI-oQ-O2N"/>
+                    <tabBarItem key="tabBarItem" title="Now Playing" id="efI-oQ-O2N"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="sHV-73-NSA">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -223,11 +223,11 @@
             </objects>
             <point key="canvasLocation" x="422" y="1458"/>
         </scene>
-        <!--Item-->
+        <!--Movies-->
         <scene sceneID="wzh-9X-QVb">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="hhK-XJ-v3R" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="eoV-Gs-gLn"/>
+                    <tabBarItem key="tabBarItem" title="Movies" id="eoV-Gs-gLn"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="iKo-T2-moK">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
